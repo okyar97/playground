@@ -1,0 +1,15 @@
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.csproj.AssemblyReference.cache
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.AssemblyInfoInputs.cache
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.AssemblyInfo.cs
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.csproj.CoreCompileInputs.cache
+/Users/zeynepokyar/Desktop/playground/bin/Debug/net5.0/playground.deps.json
+/Users/zeynepokyar/Desktop/playground/bin/Debug/net5.0/playground.runtimeconfig.json
+/Users/zeynepokyar/Desktop/playground/bin/Debug/net5.0/playground.runtimeconfig.dev.json
+/Users/zeynepokyar/Desktop/playground/bin/Debug/net5.0/playground.dll
+/Users/zeynepokyar/Desktop/playground/bin/Debug/net5.0/ref/playground.dll
+/Users/zeynepokyar/Desktop/playground/bin/Debug/net5.0/playground.pdb
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.dll
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/ref/playground.dll
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.pdb
+/Users/zeynepokyar/Desktop/playground/obj/Debug/net5.0/playground.genruntimeconfig.cache

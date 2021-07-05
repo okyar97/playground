@@ -1,16 +1,33 @@
 ﻿using System;
 
-namespace playground
+namespace KampIntro
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Zeynep!");
-           Deneme mydeneme=new Deneme();
-           Deneme.print();
-mydeneme.write();
+            string kategoriEtiketi ="kategori";
+            int ogrenciSayisi = 32000;
+            double faizOrani = 1.45;
+            bool sistemeGirisYapmisMi =false;
+
+            if (sistemeGirisYapmisMi == true)
+            {
+                Console.WriteLine("Kullanıcı ayarları butonu");
+            }
+            else
+            {
+                Console.WriteLine("Giriş yap butonu");
+            }
+
+
+
+            Console.WriteLine(kategoriEtiketi);
+
+
+          
+           
+
         }
     }
 }
